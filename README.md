@@ -1,1 +1,2 @@
 # laradock
+NO ENTIENDO NADA
